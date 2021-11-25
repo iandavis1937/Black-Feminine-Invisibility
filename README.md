@@ -1,2 +1,3 @@
 # Black-Feminine-Invisibility
-The following code was used to analyze name occurrences in archival news reports to understand how Black women's deaths at the hands of police are portrayed.
+This project sought to understand how Black women's deaths at the hands of police are portrayed in news media. 
+We used archived news reports from 2013-2020 collected from Nexis Uni to track name occurrences and co-occurrences.
